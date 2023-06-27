@@ -1,0 +1,6 @@
+students
+teachers
+play ground
+pen
+papers
+books
